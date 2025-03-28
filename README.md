@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jürgens</h1>
 <h3 align="center">A passionate machine learning student in France !</h3>
 
-- 🔭 I’m currently working on **a stress detection system on facial expression analysis**
+- 🔭 I’m currently working on **a stress detection system on facial expression analysis.**
 
 - 🌱 I’m currently learning **ML, DL and statistics.**
 
-- 👯 I’m looking to collaborate on **financial project to improve my analysis skills on**
+- 👯 I’m looking to collaborate on **financial project to improve my analysis skills on time series.**
 
 - 📫 How to reach me **jurgens_tyll@etu.u-bourgogne.fr**
 
