@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **financial project to improve my analysis skills on time series.**
 
-- 📫 How to reach me **jurgens_tyll@etu.u-bourgogne.fr**
+- 📫 How to reach me **jurgens.tyll.25@neoma-bs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
