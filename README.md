@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jürgens</h1>
-<h3 align="center">A passionate machine learning student in France !</h3>
+<h3 align="center">A passionate machine learning for finance student in France !</h3>
 
 - 🔭 I’m currently working on **a stress detection system on facial expression analysis for IA4Care.**
 
-- 🌱 I’m currently learning **Artifial Intelligence and statistics at university and mastering Python libraries essential for Data Science on my own.**
+- 🌱 I’m currently learning **Artifial Intelligence for finance at NEOMA BS and mastering Python libraries essential for Data Science on my own.**
 
 - 👯 I’m looking to collaborate on **financial project to improve my analysis skills on time series.**
 
