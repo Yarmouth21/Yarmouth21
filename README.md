@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a predictive model to predict volatily and feed portfolio.**
 
-- 🌱 I’m currently learning **Artifial Intelligence for finance at NEOMA BS and mastering Python libraries essential for Data Science on my own.**
+- 🌱 I’m learning **Artifial Intelligence for finance at NEOMA BS and mastering Python libraries essential for Data Science on my own.**
 
 - 👯 I’m looking to collaborate on **financial project to improve my analysis skills on time series.**
 
