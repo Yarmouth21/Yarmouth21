@@ -1,18 +1,57 @@
-<h1 align="center">Hi 👋, I'm Jürgens</h1>
-<h3 align="center">A passionate machine learning for finance student in France !</h3>
+# Hi 👋, I'm Jürgens
 
-- 🔭 I’m currently working on **a predictive model to predict volatily and feed portfolio.**
+### Quant Developer & Data Scientist · Paris, France
 
-- 🌱 I’m learning **Artifial Intelligence for finance at NEOMA BS and mastering Python libraries essential for Data Science on my own.**
+Apprentice Data Scientist at **4 CAPS** · Double degree: **MSc Finance & Big Data @ NEOMA BS** + **Master BDAI @ Université de Bourgogne**
 
-- 👯 I’m looking to collaborate on **financial project to improve my analysis skills on time series.**
+I work at the intersection of quantitative finance and machine learning — building pricing engines, computer vision pipelines, and ML systems that run in production.
 
-- 📫 How to reach me **jurgens.tyll.25@neoma-bs.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jurgenstyll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jurgenstyll" height="30" width="40" /></a>
-</p>
+## 🔭 What I'm building
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+- **[Implied Volatility Surface · C++](https://github.com/Yarmouth21/Project-Interpolation-IV)** — Natural cubic spline (Thomas algorithm) over NVDA options data; 3D surface via Delaunay triangulation in Python
+- **Monte Carlo & Binomial Tree Pricer · C++** — CRR model, risk-neutral probabilities, Greeks via centred finite differences; validated against Black-Scholes
+- **KREO Room Classification Pipeline** — Production ML cascade: Mistral OCR → Regex → Claude Vision → CNN (Oracle Cloud); Supabase Edge Functions, provenance tracking
+
+---
+
+## 🧠 Skills
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Quant / Finance**
+
+Derivatives pricing · Stochastic calculus (Itô, GBM) · Implied volatility surfaces · Monte Carlo (Q-measure) · Greeks · GARCH family · Time series (ARIMA, VAR, cointegration)
+
+**Machine Learning & CV**
+
+Scikit-learn · PyTorch · YOLOv8 / SAHI · U-Net · Ensemble methods · RAG systems · OCR pipelines
+
+**Data & Infra**
+
+Supabase · PostgreSQL · MongoDB · Oracle Cloud · Docker · Git · Linux
+
+---
+
+## 📌 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [IV Surface](https://github.com/Yarmouth21/Project-Interpolation-IV) | C++, Python, SciPy | Natural cubic spline + 3D implied vol surface on NVIDIA options |
+| Binomial Tree Pricer | C++ | CRR model, put-call parity validation vs Black-Scholes |
+| Monte Carlo Pricer | C++ | European options + Delta via finite differences |
+| KREO Pipeline | Python, Supabase, Claude API | Room classification cascade for real estate floor plans |
+| YOLOv8 Door Detection | Python, SAHI, CVAT | mAP50 ~0.929 on architectural floor plans with sliced inference |
+| DVF Real Estate Analysis | Python, Plotly, ReportLab | 10 visualisations + 8-page PDF report on Paris transactions 2021–2025 |
+
+---
+
+## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jurgens-tyll)
+✉️ jurgens.tyll.25@neoma-bs.com
