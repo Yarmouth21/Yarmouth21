@@ -43,8 +43,8 @@ Supabase · PostgreSQL · MongoDB · Oracle Cloud · Docker · Git · Linux
 | Project | Stack | Description |
 |---|---|---|
 | [IV Surface](https://github.com/Yarmouth21/Project-Interpolation-IV) | C++, Python, SciPy | Natural cubic spline + 3D implied vol surface on NVIDIA options |
-| Binomial Tree Pricer | C++ | CRR model, put-call parity validation vs Black-Scholes |
-| Monte Carlo Pricer | C++ | European options + Delta via finite differences |
+| [Binomial Tree Pricer](https://github.com/Yarmouth21/Project-stoch) | C++ | CRR model, put-call parity validation vs Black-Scholes |
+| [Monte Carlo Pricer & Hedging](https://github.com/Yarmouth21/Project-pricing-opt) | C++ | European options + Delta via finite differences |
 | KREO Pipeline | Python, Supabase, Claude API | Room classification cascade for real estate floor plans |
 | YOLOv8 Door Detection | Python, SAHI, CVAT | mAP50 ~0.929 on architectural floor plans with sliced inference |
 | DVF Real Estate Analysis | Python, Plotly, ReportLab | 10 visualisations + 8-page PDF report on Paris transactions 2021–2025 |
@@ -53,5 +53,5 @@ Supabase · PostgreSQL · MongoDB · Oracle Cloud · Docker · Git · Linux
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jurgens-tyll)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jurgenstyll/)
 ✉️ jurgens.tyll.25@neoma-bs.com
